@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "Photon3Unity3D", "Photon3Unity3D.dll", "{DBDDFD67-E57F-44A1-844B-61BD42BB7B03}"
+	ProjectSection(MonoDevelopProperties) = preProject
+		name = Photon3Unity3D
+		Configurations = $0
+		$0.Configuration = $1
+		$1.name = Default
+		$1.OutputPath = .\
+		$1.ctype = ProjectConfiguration
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDDFD67-E57F-44A1-844B-61BD42BB7B03}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{DBDDFD67-E57F-44A1-844B-61BD42BB7B03}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Photon3Unity3D.dll
+	EndGlobalSection
+EndGlobal
