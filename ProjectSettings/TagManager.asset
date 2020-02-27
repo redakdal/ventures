@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  tags:
+  - playerMesh
+  - Climbing Volume
+  - block
+  - chunk
+  - headJoint
+  - FPSCamera
+  - crosshair
+  - UI
+  - danger
+  - character
+  - ragDollHeadJoint
+  - spawner
+  - waypointController
+  - enemy
+  - Waypoint
+  - Meteor
+  - ragdoll
+  - treasureChest
+  - IgnoreCameraOcclusion
+  -
+  -
+  - WPPathfinder
+  - waypoint
+  -
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  -
+  - Water
+  -
+  -
+  -
+  - playerMesh
+  - Player
+  - UI
+  - MiniMap
+  - Terrain
+  - pblocks
+  - reflection
+  - default + reflection
+  - particles
+  - npc
+  - unlit
+  - materials
+  - character
+  - waypoint
+  - teeterTotter
+  - progressBar
+  - IgnoreCameraOcclusion
+  - Meteor
+  - CameraCutscene
+  - bullet
+  - chunk
+  - pickup
+  - playerPickup
+  - hitable
+  m_SortingLayers: []
